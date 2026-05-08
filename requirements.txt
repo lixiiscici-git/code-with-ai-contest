@@ -1,4 +1,10 @@
-streamlit
+streamlit==1.57.0
 pandas
 pydeck
 numpy
+starlette==0.47.0
+blinker==1.7.0
+python-dateutil
+pytz
+six
+tzdata
