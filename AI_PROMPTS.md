@@ -2,7 +2,7 @@
 
 **团队名称：** [吃饭不排队队]
 **成员名单：** [李溪，周喆康，林娜]
-**使用的 AI Coding Agent 工具：** [例如：Cursor, Claude Code, OpenCode, 通义灵码等]
+**使用的 AI Coding Agent 工具：** [Cursor]
 
 ---
 
@@ -336,121 +336,121 @@ IN
 
 OUT
 Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
-Collecting streamlit (from -r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting streamlit (from -r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/d8/1a/3ca2293d8552bacea3e67e9600d2d1df7df4a325059769ad83d91c279595/streamlit-1.57.0-py3-none-any.whl (9.2 MB)
      ---------------------------------------- 9.2/9.2 MB 2.7 MB/s eta 0:00:00
-Collecting pandas (from -r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 2))
+Collecting pandas (from -r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 2))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/44/a0/97a6339859d4acb2536efb24feb6708e82f7d33b2ed7e036f2983fcced82/pandas-3.0.2-cp311-cp311-win_amd64.whl (9.9 MB)
      ---------------------------------------- 9.9/9.9 MB 4.4 MB/s eta 0:00:00
-Collecting pydeck (from -r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 3))
+Collecting pydeck (from -r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 3))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/88/24/b30ee7d723100fd822de1bb4c0adea62f3419884a75a536f35f355d1e7c0/pydeck-0.9.2-py2.py3-none-any.whl (11.3 MB)
      ---------------------------------------- 11.3/11.3 MB 4.5 MB/s eta 0:00:00
-Collecting numpy (from -r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 4))
+Collecting numpy (from -r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 4))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/bd/63/05d193dbb4b5eec1eca73822d80da98b511f8328ad4ae3ca4caf0f4db91d/numpy-2.4.4-cp311-cp311-win_amd64.whl (12.6 MB)
      ---------------------------------------- 12.6/12.6 MB 5.0 MB/s eta 0:00:00
-Collecting altair!=5.4.0,!=5.4.1,<7,>=4.0 (from streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting altair!=5.4.0,!=5.4.1,<7,>=4.0 (from streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/ce/63/5dacc8d8306c715088b897a479e551bc0779fd2f0f26c97fec5e36542b4e/altair-6.1.0-py3-none-any.whl (796 kB)
      -------------------------------------- 797.0/797.0 kB 2.1 MB/s eta 0:00:00
-Collecting blinker<2,>=1.5.0 (from streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting blinker<2,>=1.5.0 (from streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/10/cb/f2ad4230dc2eb1a74edf38f1a38b9b52277f75bef262d8908e60d957e13c/blinker-1.9.0-py3-none-any.whl (8.5 kB)
-Collecting cachetools<8,>=5.5 (from streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting cachetools<8,>=5.5 (from streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/bf/0f/f897abe4ea0a8c408ae65c8c83bffab4936ad65d6032d4fb4cd35bbdc3ee/cachetools-7.1.1-py3-none-any.whl (16 kB)
-Collecting click<9,>=7.0 (from streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting click<9,>=7.0 (from streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/ae/44/c1221527f6a71a01ec6fbad7fa78f1d50dfa02217385cf0fa3eec7087d59/click-8.3.3-py3-none-any.whl (110 kB)
-Collecting gitpython!=3.1.19,<4,>=3.0.7 (from streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting gitpython!=3.1.19,<4,>=3.0.7 (from streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/20/7a/1c6e3562dfd8950adbb11ffbc65d21e7c89d01a6e4f137fa981056de25c5/gitpython-3.1.50-py3-none-any.whl (212 kB)
      ------------------------------------ 212.5/212.5 kB 996.4 kB/s eta 0:00:00
-Collecting packaging>=20 (from streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting packaging>=20 (from streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/df/b2/87e62e8c3e2f4b32e5fe99e0b86d576da1312593b39f47d8ceef365e95ed/packaging-26.2-py3-none-any.whl (100 kB)
-Collecting pillow<13,>=7.1.0 (from streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting pillow<13,>=7.1.0 (from streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/69/42/836b6f3cd7f3e5fa10a1f1a5420447c17966044c8fbf589cc0452d5502db/pillow-12.2.0-cp311-cp311-win_amd64.whl (7.1 MB)
      ---------------------------------------- 7.1/7.1 MB 2.3 MB/s eta 0:00:00
-Collecting protobuf<8,>=3.20 (from streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting protobuf<8,>=3.20 (from streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/4d/87/cb5e585192a22b8bd457df5a2c16a75ea0db9674c3a0a39fc9347d84e075/protobuf-7.34.1-cp310-abi3-win_amd64.whl (437 kB)
      -------------------------------------- 437.9/437.9 kB 3.9 MB/s eta 0:00:00
-Collecting pyarrow>=7.0 (from streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting pyarrow>=7.0 (from streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/f8/d2/4d1bbba65320b21a49678d6fbdc6ff7c649251359fdcfc03568c4136231d/pyarrow-24.0.0-cp311-cp311-win_amd64.whl (27.3 MB)
      ---------------------------------------- 27.3/27.3 MB 3.1 MB/s eta 0:00:00
-Collecting requests<3,>=2.27 (from streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting requests<3,>=2.27 (from streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/d7/8e/7540e8a2036f79a125c1d2ebadf69ed7901608859186c856fa0388ef4197/requests-2.33.1-py3-none-any.whl (64 kB)
      ---------------------------------------- 64.9/64.9 kB ? eta 0:00:00
-Collecting tenacity<10,>=8.1.0 (from streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting tenacity<10,>=8.1.0 (from streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/d7/c1/eb8f9debc45d3b7918a32ab756658a0904732f75e555402972246b0b8e71/tenacity-9.1.4-py3-none-any.whl (28 kB)
-Collecting toml<2,>=0.10.1 (from streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting toml<2,>=0.10.1 (from streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/44/6f/7120676b6d73228c96e17f1f794d8ab046fc910d781c8d151120c3f1569e/toml-0.10.2-py2.py3-none-any.whl (16 kB)
-Collecting typing-extensions<5,>=4.10.0 (from streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting typing-extensions<5,>=4.10.0 (from streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/18/67/36e9267722cc04a6b9f15c7f3441c2363321a3ea07da7ae0c0707beb2a9c/typing_extensions-4.15.0-py3-none-any.whl (44 kB)
-Collecting starlette>=0.40.0 (from streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting starlette>=0.40.0 (from streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/0b/c9/584bc9651441b4ba60cc4d557d8a547b5aff901af35bda3a4ee30c819b82/starlette-1.0.0-py3-none-any.whl (72 kB)
      ---------------------------------------- 72.7/72.7 kB 4.2 MB/s eta 0:00:00
-Collecting uvicorn>=0.30.0 (from streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting uvicorn>=0.30.0 (from streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/31/a3/5b1562db76a5a488274b2332a97199b32d0442aca0ed193697fd47786316/uvicorn-0.46.0-py3-none-any.whl (70 kB)
      -------------------------------------- 70.9/70.9 kB 277.1 kB/s eta 0:00:00
-Collecting httptools>=0.6.3 (from streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting httptools>=0.6.3 (from streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/b3/07/5b614f592868e07f5c94b1f301b5e14a21df4e8076215a3bccb830a687d8/httptools-0.7.1-cp311-cp311-win_amd64.whl (86 kB)
      -------------------------------------- 86.9/86.9 kB 119.6 kB/s eta 0:00:00
-Collecting anyio>=4.0.0 (from streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting anyio>=4.0.0 (from streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/da/42/e921fccf5015463e32a3cf6ee7f980a6ed0f395ceeaa45060b61d86486c2/anyio-4.13.0-py3-none-any.whl (114 kB)
-Collecting python-multipart>=0.0.10 (from streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting python-multipart>=0.0.10 (from streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/99/78/4126abcbdbd3c559d43e0db7f7b9173fc6befe45d39a2856cc0b8ec2a5a6/python_multipart-0.0.27-py3-none-any.whl (29 kB)
-Collecting websockets>=12.0.0 (from streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting websockets>=12.0.0 (from streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/54/67/eaff76b3dbaf18dcddabc3b8c1dba50b483761cccff67793897945b37408/websockets-16.0-cp311-cp311-win_amd64.whl (178 kB)
      ------------------------------------ 178.7/178.7 kB 179.6 kB/s eta 0:00:00
-Collecting itsdangerous>=2.1.2 (from streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting itsdangerous>=2.1.2 (from streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/04/96/92447566d16df59b2a776c0fb82dbc4d9e07cd95062562af01e408583fc4/itsdangerous-2.2.0-py3-none-any.whl (16 kB)
-Collecting watchdog<7,>=2.1.5 (from streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting watchdog<7,>=2.1.5 (from streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/db/d9/c495884c6e548fce18a8f40568ff120bc3a4b7b99813081c8ac0c936fa64/watchdog-6.0.0-py3-none-win_amd64.whl (79 kB)
      -------------------------------------- 79.1/79.1 kB 232.5 kB/s eta 0:00:00
-Collecting python-dateutil>=2.8.2 (from pandas->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 2))
+Collecting python-dateutil>=2.8.2 (from pandas->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 2))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/ec/57/56b9bcc3c9c6a792fcbaf139543cee77261f3651ca9da0c93f5c1221264b/python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
      ------------------------------------ 229.9/229.9 kB 206.6 kB/s eta 0:00:00
-Collecting tzdata (from pandas->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 2))
+Collecting tzdata (from pandas->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 2))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/ce/e4/dccd7f47c4b64213ac01ef921a1337ee6e30e8c6466046018326977efd95/tzdata-2026.2-py2.py3-none-any.whl (349 kB)
-Collecting jinja2>=2.10.1 (from pydeck->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 3))
+Collecting jinja2>=2.10.1 (from pydeck->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 3))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/62/a1/3d680cbfd5f4b8f15abc1d571870c5fc3e594bb582bc3b64ea099db13e56/jinja2-3.1.6-py3-none-any.whl (134 kB)
      ------------------------------------ 134.9/134.9 kB 249.3 kB/s eta 0:00:00
-Collecting jsonschema>=3.0 (from altair!=5.4.0,!=5.4.1,<7,>=4.0->streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting jsonschema>=3.0 (from altair!=5.4.0,!=5.4.1,<7,>=4.0->streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/69/90/f63fb5873511e014207a475e2bb4e8b2e570d655b00ac19a9a0ca0a385ee/jsonschema-4.26.0-py3-none-any.whl (90 kB)
      -------------------------------------- 90.6/90.6 kB 160.8 kB/s eta 0:00:00
-Collecting narwhals>=2.4.0 (from altair!=5.4.0,!=5.4.1,<7,>=4.0->streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting narwhals>=2.4.0 (from altair!=5.4.0,!=5.4.1,<7,>=4.0->streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/d0/69/f24d3d1c38ad69e256138b4ec2452a8c7cf66be49dc214771ae99dd4f0a0/narwhals-2.20.0-py3-none-any.whl (449 kB)
      ------------------------------------ 449.4/449.4 kB 200.7 kB/s eta 0:00:00
-Collecting idna>=2.8 (from anyio>=4.0.0->streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting idna>=2.8 (from anyio>=4.0.0->streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/5d/13/ad7d7ca3808a898b4612b6fe93cde56b53f3034dcde235acb1f0e1df24c6/idna-3.13-py3-none-any.whl (68 kB)
-Collecting colorama (from click<9,>=7.0->streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting colorama (from click<9,>=7.0->streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/d1/d6/3965ed04c63042e047cb6a3e6ed1a63a35087b6a609aa3a15ed8ac56c221/colorama-0.4.6-py2.py3-none-any.whl (25 kB)
-Collecting gitdb<5,>=4.0.1 (from gitpython!=3.1.19,<4,>=3.0.7->streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting gitdb<5,>=4.0.1 (from gitpython!=3.1.19,<4,>=3.0.7->streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/a0/61/5c78b91c3143ed5c14207f463aecfc8f9dbb5092fb2869baf37c273b2705/gitdb-4.0.12-py3-none-any.whl (62 kB)
      --------------------------------------- 62.8/62.8 kB 37.4 kB/s eta 0:00:00
-Collecting MarkupSafe>=2.0 (from jinja2>=2.10.1->pydeck->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 3))
+Collecting MarkupSafe>=2.0 (from jinja2>=2.10.1->pydeck->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 3))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/83/8a/4414c03d3f891739326e1783338e48fb49781cc915b2e0ee052aa490d586/markupsafe-3.0.3-cp311-cp311-win_amd64.whl (15 kB)
-Collecting six>=1.5 (from python-dateutil>=2.8.2->pandas->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 2))
+Collecting six>=1.5 (from python-dateutil>=2.8.2->pandas->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 2))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/b7/ce/149a00dd41f10bc29e5921b496af8b574d8413afcd5e30dfa0ed46c2cc5e/six-1.17.0-py2.py3-none-any.whl (11 kB)
-Collecting charset_normalizer<4,>=2 (from requests<3,>=2.27->streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting charset_normalizer<4,>=2 (from requests<3,>=2.27->streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/20/d9/5f67790f06b735d7c7637171bbfd89882ad67201891b7275e51116ed8207/charset_normalizer-3.4.7-cp311-cp311-win_amd64.whl (159 kB)
-Collecting urllib3<3,>=1.26 (from requests<3,>=2.27->streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting urllib3<3,>=1.26 (from requests<3,>=2.27->streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/7f/3e/5db95bcf282c52709639744ca2a8b149baccf648e39c8cc87553df9eae0c/urllib3-2.7.0-py3-none-any.whl (131 kB)
      ------------------------------------ 131.1/131.1 kB 386.1 kB/s eta 0:00:00
-Collecting certifi>=2023.5.7 (from requests<3,>=2.27->streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting certifi>=2023.5.7 (from requests<3,>=2.27->streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/22/30/7cd8fdcdfbc5b869528b079bfb76dcdf6056b1a2097a662e5e8c04f42965/certifi-2026.4.22-py3-none-any.whl (135 kB)
-Collecting h11>=0.8 (from uvicorn>=0.30.0->streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting h11>=0.8 (from uvicorn>=0.30.0->streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/04/4b/29cac41a4d98d144bf5f6d33995617b185d14b22401f75ca86f384e87ff1/h11-0.16.0-py3-none-any.whl (37 kB)
-Collecting smmap<6,>=3.0.1 (from gitdb<5,>=4.0.1->gitpython!=3.1.19,<4,>=3.0.7->streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting smmap<6,>=3.0.1 (from gitdb<5,>=4.0.1->gitpython!=3.1.19,<4,>=3.0.7->streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/c1/d4/59e74daffcb57a07668852eeeb6035af9f32cbfd7a1d2511f17d2fe6a738/smmap-5.0.3-py3-none-any.whl (24 kB)
-Collecting attrs>=22.2.0 (from jsonschema>=3.0->altair!=5.4.0,!=5.4.1,<7,>=4.0->streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting attrs>=22.2.0 (from jsonschema>=3.0->altair!=5.4.0,!=5.4.1,<7,>=4.0->streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/64/b4/17d4b0b2a2dc85a6df63d1157e028ed19f90d4cd97c36717afef2bc2f395/attrs-26.1.0-py3-none-any.whl (67 kB)
-Collecting jsonschema-specifications>=2023.03.6 (from jsonschema>=3.0->altair!=5.4.0,!=5.4.1,<7,>=4.0->streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting jsonschema-specifications>=2023.03.6 (from jsonschema>=3.0->altair!=5.4.0,!=5.4.1,<7,>=4.0->streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/41/45/1a4ed80516f02155c51f51e8cedb3c1902296743db0bbc66608a0db2814f/jsonschema_specifications-2025.9.1-py3-none-any.whl (18 kB)
-Collecting referencing>=0.28.4 (from jsonschema>=3.0->altair!=5.4.0,!=5.4.1,<7,>=4.0->streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting referencing>=0.28.4 (from jsonschema>=3.0->altair!=5.4.0,!=5.4.1,<7,>=4.0->streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/2c/58/ca301544e1fa93ed4f80d724bf5b194f6e4b945841c5bfd555878eea9fcb/referencing-0.37.0-py3-none-any.whl (26 kB)
-Collecting rpds-py>=0.25.0 (from jsonschema>=3.0->altair!=5.4.0,!=5.4.1,<7,>=4.0->streamlit->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting rpds-py>=0.25.0 (from jsonschema>=3.0->altair!=5.4.0,!=5.4.1,<7,>=4.0->streamlit->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/fa/5b/e7b7aa136f28462b344e652ee010d4de26ee9fd16f1bfd5811f5153ccf89/rpds_py-0.30.0-cp311-cp311-win_amd64.whl (236 kB)
      ------------------------------------ 236.0/236.0 kB 848.8 kB/s eta 0:00:00
 Installing collected packages: websockets, watchdog, urllib3, tzdata, typing-extensions, toml, tenacity, smmap, six, rpds-py, python-multipart, pyarrow, protobuf, pillow, packaging, numpy, narwhals, MarkupSafe, itsdangerous, idna, httptools, h11, colorama, charset_normalizer, certifi, cachetools, blinker, attrs, requests, referencing, python-dateutil, jinja2, gitdb, click, anyio, uvicorn, starlette, pydeck, pandas, jsonschema-specifications, gitpython, jsonschema, altair, streamlit
 Successfully installed MarkupSafe-3.0.3 altair-6.1.0 anyio-4.13.0 attrs-26.1.0 blinker-1.9.0 cachetools-7.1.1 certifi-2026.4.22 charset_normalizer-3.4.7 click-8.3.3 colorama-0.4.6 gitdb-4.0.12 gitpython-3.1.50 h11-0.16.0 httptools-0.7.1 idna-3.13 itsdangerous-2.2.0 jinja2-3.1.6 jsonschema-4.26.0 jsonschema-specifications-2025.9.1 narwhals-2.20.0 numpy-2.4.4 packaging-26.2 pandas-3.0.2 pillow-12.2.0 protobuf-7.34.1 pyarrow-24.0.0 pydeck-0.9.2 python-dateutil-2.9.0.post0 python-multipart-0.0.27 referencing-0.37.0 requests-2.33.1 rpds-py-0.30.0 six-1.17.0 smmap-5.0.3 starlette-1.0.0 streamlit-1.57.0 tenacity-9.1.4 toml-0.10.2 typing-extensions-4.15.0 tzdata-2026.2 urllib3-2.7.0 uvicorn-0.46.0 watchdog-6.0.0 websockets-16.0
 
 [notice] A new release of pip is available: 23.2.1 -> 26.1.1
-[notice] To update, run: e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python.exe -m pip install --upgrade pip
+[notice] To update, run: e:\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python.exe -m pip install --upgrade pip
 清华源安装了 streamlit 1.57.0 + starlette 1.0.0，仍然不兼容。需要在 venv 中降级 starlette。
 
 Bash Downgrade starlette in venv to compatible version
@@ -462,9 +462,9 @@ Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
 Collecting starlette<=0.37.0
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/4b/ec/7adae4eef578e3792fb01e4d4fd0b7f5f6956cb8aa5c9441eb4962155d06/starlette-0.37.0-py3-none-any.whl (71 kB)
      -------------------------------------- 72.0/72.0 kB 197.2 kB/s eta 0:00:00
-Requirement already satisfied: anyio<5,>=3.4.0 in e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\lib\site-packages (from starlette<=0.37.0) (4.13.0)
-Requirement already satisfied: idna>=2.8 in e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\lib\site-packages (from anyio<5,>=3.4.0->starlette<=0.37.0) (3.13)
-Requirement already satisfied: typing_extensions>=4.5 in e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\lib\site-packages (from anyio<5,>=3.4.0->starlette<=0.37.0) (4.15.0)
+Requirement already satisfied: anyio<5,>=3.4.0 in e:\code\repo\ai_contest\code-with-ai-contest\.env\lib\site-packages (from starlette<=0.37.0) (4.13.0)
+Requirement already satisfied: idna>=2.8 in e:\code\repo\ai_contest\code-with-ai-contest\.env\lib\site-packages (from anyio<5,>=3.4.0->starlette<=0.37.0) (3.13)
+Requirement already satisfied: typing_extensions>=4.5 in e:\code\repo\ai_contest\code-with-ai-contest\.env\lib\site-packages (from anyio<5,>=3.4.0->starlette<=0.37.0) (4.15.0)
 Installing collected packages: starlette
   Attempting uninstall: starlette
     Found existing installation: starlette 1.0.0
@@ -475,14 +475,14 @@ streamlit 1.57.0 requires starlette>=0.40.0, but you have starlette 0.37.0 which
 Successfully installed starlette-0.37.0
 
 [notice] A new release of pip is available: 23.2.1 -> 26.1.1
-[notice] To update, run: e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python.exe -m pip install --upgrade pip
+[notice] To update, run: e:\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python.exe -m pip install --upgrade pip
 Bash Test streamlit import in venv
 IN
 "e:\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python" -c "import streamlit; print('streamlit import OK')" 2>&1
 
 OUT
 Exit code 1
-Error processing line 1 of E:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\distutils-precedence.pth:
+Error processing line 1 of E:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\distutils-precedence.pth:
 
   Traceback (most recent call last):
     File "<frozen site>", line 186, in addpackage
@@ -490,7 +490,7 @@ Error processing line 1 of E:\�γ�\�о����γ�\code\repo\ai_conte
   AttributeError: module '_distutils_hack' has no attribute 'add_shim'
 
 Remainder of file ignored
-Error processing line 1 of E:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\distutils-precedence.pth:
+Error processing line 1 of E:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\distutils-precedence.pth:
 
   Traceback (most recent call last):
     File "<frozen site>", line 186, in addpackage
@@ -500,9 +500,9 @@ Error processing line 1 of E:\�γ�\�о����γ�\code\repo\ai_conte
 Remainder of file ignored
 Traceback (most recent call last):
   File "<string>", line 1, in <module>
-  File "E:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\streamlit\__init__.py", line 62, in <module>
+  File "E:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\streamlit\__init__.py", line 62, in <module>
     from streamlit import config as _config
-  File "E:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\streamlit\config.py", line 29, in <module>
+  File "E:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\streamlit\config.py", line 29, in <module>
     from blinker import Signal
 ImportError: cannot import name 'Signal' from 'blinker' (unknown location)
 streamlit 1.57.0 太旧了，依赖冲突不断。让我直接升级 streamlit 到最新版。
@@ -513,113 +513,113 @@ IN
 
 OUT
 WARNING: pip index is currently an experimental command. It may be removed/changed in a future release without prior warning.
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\altair-6.1.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\anyio-4.13.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\attrs-26.1.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\blinker-1.9.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\cachetools-7.1.1.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\certifi-2026.4.22.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\charset_normalizer-3.4.7.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\click-8.3.3.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\colorama-0.4.6.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\gitdb-4.0.12.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\gitpython-3.1.50.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\h11-0.16.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\httptools-0.7.1.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\idna-3.13.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\itsdangerous-2.2.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jinja2-3.1.6.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jsonschema-4.26.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jsonschema_specifications-2025.9.1.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\markupsafe-3.0.3.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\narwhals-2.20.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\altair-6.1.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\anyio-4.13.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\attrs-26.1.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\blinker-1.9.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\cachetools-7.1.1.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\certifi-2026.4.22.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\charset_normalizer-3.4.7.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\click-8.3.3.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\colorama-0.4.6.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\gitdb-4.0.12.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\gitpython-3.1.50.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\h11-0.16.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\httptools-0.7.1.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\idna-3.13.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\itsdangerous-2.2.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jinja2-3.1.6.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jsonschema-4.26.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jsonschema_specifications-2025.9.1.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\markupsafe-3.0.3.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\narwhals-2.20.0.dist-info due to invalid metadata entry 'name'
 streamlit (1.57.0)
 Available versions: 1.57.0, 1.56.0, 1.55.0, 1.54.0, 1.53.1, 1.53.0, 1.52.2, 1.52.1, 1.52.0, 1.51.0, 1.50.0, 1.49.1, 1.49.0, 1.48.1, 1.48.0, 1.47.1, 1.47.0, 1.46.1, 1.46.0, 1.45.1, 1.45.0, 1.44.1, 1.44.0, 1.43.2, 1.43.1, 1.43.0, 1.42.2, 1.42.1, 1.42.0, 1.41.1, 1.41.0, 1.40.2, 1.40.1, 1.40.0, 1.39.1, 1.39.0, 1.38.0, 1.37.1, 1.37.0, 1.36.0, 1.35.0, 1.34.0, 1.33.0, 1.32.2, 1.32.1, 1.32.0, 1.31.1, 1.31.0, 1.30.0, 1.29.0, 1.28.2, 1.28.1, 1.28.0, 1.27.2, 1.27.1, 1.27.0, 1.26.1, 1.26.0, 1.25.0, 1.24.1, 1.24.0, 1.23.1, 1.23.0, 1.22.0, 1.21.0, 1.20.0, 1.19.0, 1.18.1, 1.18.0, 1.17.0, 1.16.0, 1.15.2, 1.15.1, 1.15.0, 1.14.1, 1.14.0, 1.13.0, 1.12.2, 1.12.1, 1.12.0, 1.11.1, 1.11.0, 1.10.0, 1.9.2, 1.9.1, 1.9.0, 1.8.1, 1.8.0, 1.7.0, 1.6.0, 1.5.1, 1.5.0, 1.4.0, 1.3.1, 1.3.0, 1.2.0, 1.1.0, 1.0.0, 0.89.0, 0.88.0, 0.87.0, 0.86.0, 0.85.1, 0.85.0, 0.84.2, 0.84.1, 0.84.0, 0.83.0, 0.82.0, 0.81.1, 0.81.0, 0.80.0, 0.79.0, 0.78.0, 0.77.0, 0.76.0, 0.75.0, 0.74.1, 0.74.0, 0.73.1, 0.73.0, 0.72.0, 0.71.0, 0.70.0, 0.69.2, 0.69.1, 0.69.0, 0.68.1, 0.68.0, 0.67.1, 0.67.0, 0.66.0, 0.65.2, 0.65.1, 0.65.0, 0.64.0, 0.63.1, 0.63.0, 0.62.1, 0.62.0, 0.61.0, 0.60.0, 0.59.0, 0.58.0, 0.57.3, 0.57.2, 0.57.1, 0.57.0, 0.56.0, 0.55.0, 0.54.0, 0.53.0, 0.52.2, 0.52.1, 0.52.0, 0.51.0, 0.50.2, 0.50.1, 0.50.0, 0.49.0, 0.48.1, 0.48.0, 0.47.4, 0.47.3, 0.47.2, 0.47.1, 0.47.0, 0.46.0, 0.45.0, 0.44.0, 0.43.2, 0.43.1, 0.43.0, 0.42.0, 0.41.0, 0.40.1, 0.40.0, 0.37.0, 0.36.0, 0.35.0, 0.34.0, 0.33.0, 0.32.0, 0.31.0, 0.30.0, 0.29.0, 0.28.0, 0.27.0, 0.26.1, 0.26.0, 0.25.0, 0.24.3, 0.24.2, 0.24.1, 0.24.0, 0.23.0, 0.22.2, 0.22.1, 0.22.0, 0.21.0, 0.20.0, 0.19.1, 0.19.0, 0.18.1, 0.18.0, 0.17.2, 0.17.1, 0.17.0, 0.16.3, 0.16.2, 0.16.1, 0.16.0, 0.15.6, 0.15.5, 0.15.4, 0.15.3, 0.15.2, 0.15.1, 0.15.0, 0.14.2, 0.13.5, 0.13.3, 0.13.1, 0.13.0, 0.12.4, 0.12.3, 0.12.2, 0.11.0, 0.9.0, 0.8.2, 0.8, 0.7, 0.6, 0.5, 0.4, 0.3, 0.2, 0.1
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\altair-6.1.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\anyio-4.13.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\attrs-26.1.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\blinker-1.9.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\cachetools-7.1.1.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\certifi-2026.4.22.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\charset_normalizer-3.4.7.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\click-8.3.3.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\colorama-0.4.6.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\gitdb-4.0.12.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\gitpython-3.1.50.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\h11-0.16.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\httptools-0.7.1.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\idna-3.13.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\itsdangerous-2.2.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jinja2-3.1.6.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jsonschema-4.26.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jsonschema_specifications-2025.9.1.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\markupsafe-3.0.3.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\narwhals-2.20.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\altair-6.1.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\anyio-4.13.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\attrs-26.1.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\blinker-1.9.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\cachetools-7.1.1.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\certifi-2026.4.22.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\charset_normalizer-3.4.7.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\click-8.3.3.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\colorama-0.4.6.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\gitdb-4.0.12.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\gitpython-3.1.50.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\h11-0.16.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\httptools-0.7.1.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\idna-3.13.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\itsdangerous-2.2.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jinja2-3.1.6.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jsonschema-4.26.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jsonschema_specifications-2025.9.1.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\markupsafe-3.0.3.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\narwhals-2.20.0.dist-info due to invalid metadata entry 'name'
   INSTALLED: 1.57.0
   LATEST:    1.57.0
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\altair-6.1.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\anyio-4.13.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\attrs-26.1.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\blinker-1.9.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\cachetools-7.1.1.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\certifi-2026.4.22.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\charset_normalizer-3.4.7.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\click-8.3.3.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\colorama-0.4.6.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\gitdb-4.0.12.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\gitpython-3.1.50.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\h11-0.16.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\httptools-0.7.1.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\idna-3.13.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\itsdangerous-2.2.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jinja2-3.1.6.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jsonschema-4.26.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jsonschema_specifications-2025.9.1.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\markupsafe-3.0.3.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\narwhals-2.20.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\altair-6.1.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\anyio-4.13.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\attrs-26.1.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\blinker-1.9.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\cachetools-7.1.1.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\certifi-2026.4.22.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\charset_normalizer-3.4.7.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\click-8.3.3.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\colorama-0.4.6.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\gitdb-4.0.12.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\gitpython-3.1.50.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\h11-0.16.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\httptools-0.7.1.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\idna-3.13.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\itsdangerous-2.2.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jinja2-3.1.6.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jsonschema-4.26.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jsonschema_specifications-2025.9.1.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\markupsafe-3.0.3.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\narwhals-2.20.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\altair-6.1.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\anyio-4.13.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\attrs-26.1.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\blinker-1.9.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\cachetools-7.1.1.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\certifi-2026.4.22.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\charset_normalizer-3.4.7.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\click-8.3.3.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\colorama-0.4.6.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\gitdb-4.0.12.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\gitpython-3.1.50.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\h11-0.16.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\httptools-0.7.1.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\idna-3.13.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\itsdangerous-2.2.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jinja2-3.1.6.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jsonschema-4.26.0.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jsonschema_specifications-2025.9.1.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\markupsafe-3.0.3.dist-info due to invalid metadata entry 'name'
-WARNING: Skipping e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\narwhals-2.20.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\altair-6.1.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\anyio-4.13.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\attrs-26.1.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\blinker-1.9.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\cachetools-7.1.1.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\certifi-2026.4.22.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\charset_normalizer-3.4.7.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\click-8.3.3.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\colorama-0.4.6.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\gitdb-4.0.12.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\gitpython-3.1.50.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\h11-0.16.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\httptools-0.7.1.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\idna-3.13.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\itsdangerous-2.2.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jinja2-3.1.6.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jsonschema-4.26.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jsonschema_specifications-2025.9.1.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\markupsafe-3.0.3.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\narwhals-2.20.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\altair-6.1.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\anyio-4.13.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\attrs-26.1.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\blinker-1.9.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\cachetools-7.1.1.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\certifi-2026.4.22.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\charset_normalizer-3.4.7.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\click-8.3.3.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\colorama-0.4.6.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\gitdb-4.0.12.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\gitpython-3.1.50.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\h11-0.16.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\httptools-0.7.1.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\idna-3.13.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\itsdangerous-2.2.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jinja2-3.1.6.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jsonschema-4.26.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jsonschema_specifications-2025.9.1.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\markupsafe-3.0.3.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\narwhals-2.20.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\altair-6.1.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\anyio-4.13.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\attrs-26.1.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\blinker-1.9.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\cachetools-7.1.1.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\certifi-2026.4.22.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\charset_normalizer-3.4.7.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\click-8.3.3.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\colorama-0.4.6.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\gitdb-4.0.12.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\gitpython-3.1.50.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\h11-0.16.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\httptools-0.7.1.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\idna-3.13.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\itsdangerous-2.2.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jinja2-3.1.6.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jsonschema-4.26.0.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\jsonschema_specifications-2025.9.1.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\markupsafe-3.0.3.dist-info due to invalid metadata entry 'name'
+WARNING: Skipping e:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\narwhals-2.20.0.dist-info due to invalid metadata entry 'name'
 
 [notice] A new release of pip is available: 23.2.1 -> 26.1.1
-[notice] To update, run: e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python.exe -m pip install --upgrade pip
+[notice] To update, run: e:\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python.exe -m pip install --upgrade pip
 清华源只有 streamlit 1.57.0。让我重建 venv，用兼容的依赖版本组合。
 
 Bash Remove old venv
@@ -649,44 +649,44 @@ IN
 OUT
 Exit code 1
 Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
-Collecting streamlit==1.57.0 (from -r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting streamlit==1.57.0 (from -r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/d8/1a/3ca2293d8552bacea3e67e9600d2d1df7df4a325059769ad83d91c279595/streamlit-1.57.0-py3-none-any.whl (9.2 MB)
-Collecting pandas (from -r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 2))
+Collecting pandas (from -r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 2))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/44/a0/97a6339859d4acb2536efb24feb6708e82f7d33b2ed7e036f2983fcced82/pandas-3.0.2-cp311-cp311-win_amd64.whl (9.9 MB)
-Collecting pydeck (from -r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 3))
+Collecting pydeck (from -r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 3))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/88/24/b30ee7d723100fd822de1bb4c0adea62f3419884a75a536f35f355d1e7c0/pydeck-0.9.2-py2.py3-none-any.whl (11.3 MB)
-Collecting numpy (from -r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 4))
+Collecting numpy (from -r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 4))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/bd/63/05d193dbb4b5eec1eca73822d80da98b511f8328ad4ae3ca4caf0f4db91d/numpy-2.4.4-cp311-cp311-win_amd64.whl (12.6 MB)
-Collecting starlette==0.37.0 (from -r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 5))
+Collecting starlette==0.37.0 (from -r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 5))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/4b/ec/7adae4eef578e3792fb01e4d4fd0b7f5f6956cb8aa5c9441eb4962155d06/starlette-0.37.0-py3-none-any.whl (71 kB)
-Collecting blinker==1.7.0 (from -r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 6))
+Collecting blinker==1.7.0 (from -r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 6))
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/fa/2a/7f3714cbc6356a0efec525ce7a0613d581072ed6eb53eb7b9754f33db807/blinker-1.7.0-py3-none-any.whl (13 kB)
-Collecting altair!=5.4.0,!=5.4.1,<7,>=4.0 (from streamlit==1.57.0->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting altair!=5.4.0,!=5.4.1,<7,>=4.0 (from streamlit==1.57.0->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/ce/63/5dacc8d8306c715088b897a479e551bc0779fd2f0f26c97fec5e36542b4e/altair-6.1.0-py3-none-any.whl (796 kB)
-Collecting cachetools<8,>=5.5 (from streamlit==1.57.0->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting cachetools<8,>=5.5 (from streamlit==1.57.0->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/bf/0f/f897abe4ea0a8c408ae65c8c83bffab4936ad65d6032d4fb4cd35bbdc3ee/cachetools-7.1.1-py3-none-any.whl (16 kB)
-Collecting click<9,>=7.0 (from streamlit==1.57.0->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting click<9,>=7.0 (from streamlit==1.57.0->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/ae/44/c1221527f6a71a01ec6fbad7fa78f1d50dfa02217385cf0fa3eec7087d59/click-8.3.3-py3-none-any.whl (110 kB)
-Collecting gitpython!=3.1.19,<4,>=3.0.7 (from streamlit==1.57.0->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting gitpython!=3.1.19,<4,>=3.0.7 (from streamlit==1.57.0->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/20/7a/1c6e3562dfd8950adbb11ffbc65d21e7c89d01a6e4f137fa981056de25c5/gitpython-3.1.50-py3-none-any.whl (212 kB)
-Collecting packaging>=20 (from streamlit==1.57.0->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting packaging>=20 (from streamlit==1.57.0->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/df/b2/87e62e8c3e2f4b32e5fe99e0b86d576da1312593b39f47d8ceef365e95ed/packaging-26.2-py3-none-any.whl (100 kB)
-Collecting pillow<13,>=7.1.0 (from streamlit==1.57.0->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting pillow<13,>=7.1.0 (from streamlit==1.57.0->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/69/42/836b6f3cd7f3e5fa10a1f1a5420447c17966044c8fbf589cc0452d5502db/pillow-12.2.0-cp311-cp311-win_amd64.whl (7.1 MB)
-Collecting protobuf<8,>=3.20 (from streamlit==1.57.0->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting protobuf<8,>=3.20 (from streamlit==1.57.0->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/4d/87/cb5e585192a22b8bd457df5a2c16a75ea0db9674c3a0a39fc9347d84e075/protobuf-7.34.1-cp310-abi3-win_amd64.whl (437 kB)
-Collecting pyarrow>=7.0 (from streamlit==1.57.0->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting pyarrow>=7.0 (from streamlit==1.57.0->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/f8/d2/4d1bbba65320b21a49678d6fbdc6ff7c649251359fdcfc03568c4136231d/pyarrow-24.0.0-cp311-cp311-win_amd64.whl (27.3 MB)
-Collecting requests<3,>=2.27 (from streamlit==1.57.0->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting requests<3,>=2.27 (from streamlit==1.57.0->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/d7/8e/7540e8a2036f79a125c1d2ebadf69ed7901608859186c856fa0388ef4197/requests-2.33.1-py3-none-any.whl (64 kB)
-Collecting tenacity<10,>=8.1.0 (from streamlit==1.57.0->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting tenacity<10,>=8.1.0 (from streamlit==1.57.0->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/d7/c1/eb8f9debc45d3b7918a32ab756658a0904732f75e555402972246b0b8e71/tenacity-9.1.4-py3-none-any.whl (28 kB)
-Collecting toml<2,>=0.10.1 (from streamlit==1.57.0->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting toml<2,>=0.10.1 (from streamlit==1.57.0->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/44/6f/7120676b6d73228c96e17f1f794d8ab046fc910d781c8d151120c3f1569e/toml-0.10.2-py2.py3-none-any.whl (16 kB)
-Collecting typing-extensions<5,>=4.10.0 (from streamlit==1.57.0->-r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
+Collecting typing-extensions<5,>=4.10.0 (from streamlit==1.57.0->-r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1))
   Using cached https://pypi.tuna.tsinghua.edu.cn/packages/18/67/36e9267722cc04a6b9f15c7f3441c2363321a3ea07da7ae0c0707beb2a9c/typing_extensions-4.15.0-py3-none-any.whl (44 kB)
 INFO: pip is looking at multiple versions of streamlit to determine which version is compatible with other requirements. This could take a while.
-ERROR: Cannot install -r e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1) and starlette==0.37.0 because these package versions have conflicting dependencies.
+ERROR: Cannot install -r e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt (line 1) and starlette==0.37.0 because these package versions have conflicting dependencies.
 
 The conflict is caused by:
     The user requested starlette==0.37.0
@@ -699,7 +699,7 @@ To fix this you could try to:
 ERROR: ResolutionImpossible: for help visit https://pip.pypa.io/en/latest/topics/dependency-resolution/#dealing-with-dependency-conflicts
 
 [notice] A new release of pip is available: 23.2.1 -> 26.1.1
-[notice] To update, run: e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python.exe -m pip install --upgrade pip
+[notice] To update, run: e:\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python.exe -m pip install --upgrade pip
 pip 严格检查依赖。先装 streamlit 再覆盖 starlette。
 
 Bash Install streamlit without deps first
@@ -722,7 +722,7 @@ Installing collected packages: streamlit, pydeck, pandas, numpy, blinker
 Successfully installed blinker-1.7.0 numpy-2.4.4 pandas-3.0.2 pydeck-0.9.2 streamlit-1.57.0
 
 [notice] A new release of pip is available: 23.2.1 -> 26.1.1
-[notice] To update, run: e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python.exe -m pip install --upgrade pip
+[notice] To update, run: e:\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python.exe -m pip install --upgrade pip
 Bash Install remaining deps with compatible starlette
 IN
 "e:\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\pip" install starlette==0.37.0 altair cachetools click gitpython packaging pillow protobuf pyarrow requests tenacity toml typing-extensions uvicorn httptools anyio python-multipart websockets itsdangerous watchdog 2>&1
@@ -807,7 +807,7 @@ streamlit 1.57.0 requires starlette>=0.40.0, but you have starlette 0.37.0 which
 Successfully installed MarkupSafe-3.0.3 altair-6.1.0 anyio-4.13.0 attrs-26.1.0 cachetools-7.1.1 certifi-2026.4.22 charset_normalizer-3.4.7 click-8.3.3 colorama-0.4.6 gitdb-4.0.12 gitpython-3.1.50 h11-0.16.0 httptools-0.7.1 idna-3.13 itsdangerous-2.2.0 jinja2-3.1.6 jsonschema-4.26.0 jsonschema-specifications-2025.9.1 narwhals-2.20.0 packaging-26.2 pillow-12.2.0 protobuf-7.34.1 pyarrow-24.0.0 python-multipart-0.0.27 referencing-0.37.0 requests-2.33.1 rpds-py-0.30.0 smmap-5.0.3 starlette-0.37.0 tenacity-9.1.4 toml-0.10.2 typing-extensions-4.15.0 urllib3-2.7.0 uvicorn-0.46.0 watchdog-6.0.0 websockets-16.0
 
 [notice] A new release of pip is available: 23.2.1 -> 26.1.1
-[notice] To update, run: e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python.exe -m pip install --upgrade pip
+[notice] To update, run: e:\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python.exe -m pip install --upgrade pip
 安装完成。测试 streamlit 能否正常导入：
 
 Bash Test streamlit import
@@ -818,17 +818,17 @@ OUT
 Exit code 1
 Traceback (most recent call last):
   File "<string>", line 1, in <module>
-  File "E:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\streamlit\__init__.py", line 307, in <module>
+  File "E:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\streamlit\__init__.py", line 307, in <module>
     from streamlit.starlette import App as App
-  File "E:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\streamlit\starlette.py", line 32, in <module>
+  File "E:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\streamlit\starlette.py", line 32, in <module>
     from streamlit.web.server.starlette.starlette_app import App
-  File "E:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\streamlit\web\server\starlette\__init__.py", line 15, in <module>
+  File "E:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\streamlit\web\server\starlette\__init__.py", line 15, in <module>
     from streamlit.web.server.starlette.starlette_app import App, create_starlette_app
-  File "E:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\streamlit\web\server\starlette\starlette_app.py", line 31, in <module>
+  File "E:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\streamlit\web\server\starlette\starlette_app.py", line 31, in <module>
     from streamlit.web.server.starlette.starlette_gzip_middleware import (
-  File "E:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\streamlit\web\server\starlette\starlette_gzip_middleware.py", line 22, in <module>
+  File "E:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\streamlit\web\server\starlette\starlette_gzip_middleware.py", line 22, in <module>
     from starlette.middleware.gzip import (
-ImportError: cannot import name 'DEFAULT_EXCLUDED_CONTENT_TYPES' from 'starlette.middleware.gzip' (E:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\starlette\middleware\gzip.py)
+ImportError: cannot import name 'DEFAULT_EXCLUDED_CONTENT_TYPES' from 'starlette.middleware.gzip' (E:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\starlette\middleware\gzip.py)
 Bash Check starlette gzip module exports
 IN
 "e:\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python" -c "
@@ -841,7 +841,7 @@ print([x for x in dir(g) if not x.startswith('_')])
 " 2>&1
 
 OUT
-E:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\starlette\middleware\gzip.py
+E:\code\repo\ai_contest\code-with-ai-contest\.env\Lib\site-packages\starlette\middleware\gzip.py
 ['ASGIApp', 'GZipMiddleware', 'GZipResponder', 'Headers', 'Message', 'MutableHeaders', 'Receive', 'Scope', 'Send', 'gzip', 'io', 'typing', 'unattached_send']
 Bash Check starlette version
 IN
@@ -865,9 +865,9 @@ Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
 Collecting starlette==0.35.1
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/03/13/c60c738da2fb69d60ee1dc5631e8d152352003cc0bc4ce39582bdd90e293/starlette-0.35.1-py3-none-any.whl (71 kB)
      -------------------------------------- 71.1/71.1 kB 155.6 kB/s eta 0:00:00
-Requirement already satisfied: anyio<5,>=3.4.0 in e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\lib\site-packages (from starlette==0.35.1) (4.13.0)
-Requirement already satisfied: idna>=2.8 in e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\lib\site-packages (from anyio<5,>=3.4.0->starlette==0.35.1) (3.13)
-Requirement already satisfied: typing_extensions>=4.5 in e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\lib\site-packages (from anyio<5,>=3.4.0->starlette==0.35.1) (4.15.0)
+Requirement already satisfied: anyio<5,>=3.4.0 in e:\code\repo\ai_contest\code-with-ai-contest\.env\lib\site-packages (from starlette==0.35.1) (4.13.0)
+Requirement already satisfied: idna>=2.8 in e:\code\repo\ai_contest\code-with-ai-contest\.env\lib\site-packages (from anyio<5,>=3.4.0->starlette==0.35.1) (3.13)
+Requirement already satisfied: typing_extensions>=4.5 in e:\code\repo\ai_contest\code-with-ai-contest\.env\lib\site-packages (from anyio<5,>=3.4.0->starlette==0.35.1) (4.15.0)
 Installing collected packages: starlette
   Attempting uninstall: starlette
     Found existing installation: starlette 0.37.0
@@ -878,7 +878,7 @@ streamlit 1.57.0 requires starlette>=0.40.0, but you have starlette 0.35.1 which
 Successfully installed starlette-0.35.1
 
 [notice] A new release of pip is available: 23.2.1 -> 26.1.1
-[notice] To update, run: e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python.exe -m pip install --upgrade pip
+[notice] To update, run: e:\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python.exe -m pip install --upgrade pip
 Bash Check starlette 0.35.1 gzip exports
 IN
 "e:\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python" -c "
@@ -901,9 +901,9 @@ Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
 Collecting starlette==0.40.0
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/0a/0f/64baf7a06492e8c12f5c4b49db286787a7255195df496fc21f5fd9eecffa/starlette-0.40.0-py3-none-any.whl (73 kB)
      -------------------------------------- 73.3/73.3 kB 404.2 kB/s eta 0:00:00
-Requirement already satisfied: anyio<5,>=3.4.0 in e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\lib\site-packages (from starlette==0.40.0) (4.13.0)
-Requirement already satisfied: idna>=2.8 in e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\lib\site-packages (from anyio<5,>=3.4.0->starlette==0.40.0) (3.13)
-Requirement already satisfied: typing_extensions>=4.5 in e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\lib\site-packages (from anyio<5,>=3.4.0->starlette==0.40.0) (4.15.0)
+Requirement already satisfied: anyio<5,>=3.4.0 in e:\code\repo\ai_contest\code-with-ai-contest\.env\lib\site-packages (from starlette==0.40.0) (4.13.0)
+Requirement already satisfied: idna>=2.8 in e:\code\repo\ai_contest\code-with-ai-contest\.env\lib\site-packages (from anyio<5,>=3.4.0->starlette==0.40.0) (3.13)
+Requirement already satisfied: typing_extensions>=4.5 in e:\code\repo\ai_contest\code-with-ai-contest\.env\lib\site-packages (from anyio<5,>=3.4.0->starlette==0.40.0) (4.15.0)
 Installing collected packages: starlette
   Attempting uninstall: starlette
     Found existing installation: starlette 0.35.1
@@ -912,7 +912,7 @@ Installing collected packages: starlette
 Successfully installed starlette-0.40.0
 
 [notice] A new release of pip is available: 23.2.1 -> 26.1.1
-[notice] To update, run: e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python.exe -m pip install --upgrade pip
+[notice] To update, run: e:\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python.exe -m pip install --upgrade pip
 Bash Check starlette 0.40.0 gzip exports
 IN
 "e:\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python" -c "
@@ -1010,9 +1010,9 @@ Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
 Collecting starlette==0.47.0
   Downloading https://pypi.tuna.tsinghua.edu.cn/packages/e3/81/c60b35fe9674f63b38a8feafc414fca0da378a9dbd5fa1e0b8d23fcc7a9b/starlette-0.47.0-py3-none-any.whl (72 kB)
      -------------------------------------- 72.8/72.8 kB 154.1 kB/s eta 0:00:00
-Requirement already satisfied: anyio<5,>=3.6.2 in e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\lib\site-packages (from starlette==0.47.0) (4.13.0)
-Requirement already satisfied: idna>=2.8 in e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\lib\site-packages (from anyio<5,>=3.6.2->starlette==0.47.0) (3.13)
-Requirement already satisfied: typing_extensions>=4.5 in e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\lib\site-packages (from anyio<5,>=3.6.2->starlette==0.47.0) (4.15.0)
+Requirement already satisfied: anyio<5,>=3.6.2 in e:\code\repo\ai_contest\code-with-ai-contest\.env\lib\site-packages (from starlette==0.47.0) (4.13.0)
+Requirement already satisfied: idna>=2.8 in e:\code\repo\ai_contest\code-with-ai-contest\.env\lib\site-packages (from anyio<5,>=3.6.2->starlette==0.47.0) (3.13)
+Requirement already satisfied: typing_extensions>=4.5 in e:\code\repo\ai_contest\code-with-ai-contest\.env\lib\site-packages (from anyio<5,>=3.6.2->starlette==0.47.0) (4.15.0)
 Installing collected packages: starlette
   Attempting uninstall: starlette
     Found existing installation: starlette 0.40.0
@@ -1021,7 +1021,7 @@ Installing collected packages: starlette
 Successfully installed starlette-0.47.0
 
 [notice] A new release of pip is available: 23.2.1 -> 26.1.1
-[notice] To update, run: e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python.exe -m pip install --upgrade pip
+[notice] To update, run: e:\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python.exe -m pip install --upgrade pip
 Bash Check starlette 0.47.0 gzip exports
 IN
 "e:\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python" -c "
@@ -1142,7 +1142,7 @@ Installing collected packages: pytz, tzdata, six, python-dateutil
 Successfully installed python-dateutil-2.9.0.post0 pytz-2026.2 six-1.17.0 tzdata-2026.2
 
 [notice] A new release of pip is available: 23.2.1 -> 26.1.1
-[notice] To update, run: e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python.exe -m pip install --upgrade pip
+[notice] To update, run: e:\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python.exe -m pip install --upgrade pip
 Read e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt
 Edit e:\code\repo\ai_contest\code-with-ai-contest\requirements.txt
 Added 4 lines
@@ -1546,16 +1546,16 @@ IN
 
 OUT
 [notice] A new release of pip is available: 23.2.1 -> 26.1.1
-[notice] To update, run: e:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python.exe -m pip install --upgrade pip
+[notice] To update, run: e:\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python.exe -m pip install --upgrade pip
 Bash Run unit tests
 IN
 cd "e:\code\repo\ai_contest\code-with-ai-contest" && ".env\Scripts\python" -m pytest tests/test_app.py -v 2>&1
 
 OUT
 ============================= test session starts =============================
-platform win32 -- Python 3.11.5, pytest-9.0.3, pluggy-1.6.0 -- E:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python.exe
+platform win32 -- Python 3.11.5, pytest-9.0.3, pluggy-1.6.0 -- E:\code\repo\ai_contest\code-with-ai-contest\.env\Scripts\python.exe
 cachedir: .pytest_cache
-rootdir: E:\�γ�\�о����γ�\code\repo\ai_contest\code-with-ai-contest
+rootdir: E:\code\repo\ai_contest\code-with-ai-contest
 plugins: anyio-4.13.0
 collecting ... collected 11 items
 
